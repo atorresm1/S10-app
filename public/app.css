@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(to right, #33f3a3 0%, #e3f195 100%); 
+   
+}
+h1{
+    font-size: medium;
+    background-color: azure;
+}

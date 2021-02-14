@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shellArgs.osx": [
+        "-l",
+        "Cmd"
+    ],
+    "terminal.integrated.shellArgs.linux": [
+        "cmd"
+    ]
+}
